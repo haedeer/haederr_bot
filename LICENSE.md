@@ -9,7 +9,7 @@ local function pre_process(msg)
             return "ok"
 end
         return msg
-    end
+    end git@github.com:Haederbot/haederr_bot.git
     
  local function zeoone(msg, matches)
      chat_id = msg.to.id
